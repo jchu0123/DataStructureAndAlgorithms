@@ -1,3 +1,4 @@
+//This is a Dynamic Array
 package com.ds;
 
 import java.util.Arrays;
